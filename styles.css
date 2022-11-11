@@ -1,0 +1,86 @@
+:root {
+  --dark: #111a24;
+  --light: #a9c1df;
+  --gray: #8e9ea6;
+  --gold: #df8d36;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-color: var(--dark);
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: var(--light);
+  font-family: "Caesar Dressing";
+  font-size: 48px;
+}
+
+.divider {
+  width: 620px;
+}
+
+h2 {
+  margin: -8.5px auto 50px auto;
+  color: var(--gold);
+  font-family: "Philosopher";
+  font-weight: 300;
+  font-size: 34px;
+}
+
+.odin {
+  width: 300px;
+  margin: 0 auto;
+  padding-left: 25px;
+}
+
+.recipes {
+  margin-top: -10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.border {
+  width: 380px;
+}
+
+ul {
+  position: absolute;
+  padding-bottom: 40px;
+
+  font-family: "Philosopher";
+  font-weight: 300;
+  font-size: 24px;
+
+  list-style-type: none;
+  text-align: center;
+  line-height: 2.5;
+}
+
+a {
+  color: var(--gray);
+  text-decoration: none;
+}
+
+.waves {
+  width: 100vw;
+}
