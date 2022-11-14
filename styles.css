@@ -1,24 +1,9 @@
-:root {
-  --dark: #111a24;
-  --light: #a9c1df;
-  --gray: #8e9ea6;
-  --gold: #df8d36;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   margin-top: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
-  background-color: var(--dark);
 }
 
 header {
@@ -26,12 +11,6 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-
-h1 {
-  color: var(--light);
-  font-family: "Caesar Dressing";
-  font-size: 48px;
 }
 
 .divider {
@@ -65,7 +44,7 @@ h2 {
 
 ul {
   position: absolute;
-  padding-bottom: 40px;
+  padding-bottom: 60px;
 
   font-family: "Philosopher";
   font-weight: 300;
@@ -77,10 +56,15 @@ ul {
 }
 
 a {
-  color: var(--gray);
+  color: var(--light);
   text-decoration: none;
 }
 
-.waves {
-  width: 100vw;
+a:hover {
+  color: var(--gold);
+  text-shadow: 0px 0px 30px #fdec6e;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
 }

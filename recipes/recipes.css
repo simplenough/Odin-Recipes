@@ -1,0 +1,81 @@
+body {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.recipe {
+  width: 525px;
+  display: flex;
+  flex-direction: column;
+}
+
+.recipe__container {
+  width: 420px;
+  position: relative;
+
+  top: 50px;
+  left: 55px;
+}
+
+.border {
+  width: 525px;
+  position: absolute;
+}
+
+h2 {
+  margin-bottom: 40px;
+
+  color: var(--light);
+  font-family: "Philosopher";
+  font-size: 24px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+h3 {
+  margin: 20px 0;
+  color: var(--light);
+  font-family: "Philosopher";
+  font-size: 20px;
+}
+
+p,
+li {
+  color: var(--gray);
+  font-family: "Philosopher";
+  font-size: 18px;
+}
+
+ul,
+ol {
+  margin-left: 40px;
+}
+
+.picture {
+  margin-right: 90px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bread,
+.stew {
+  width: 280px;
+  margin: 50px auto;
+  position: relative;
+}
+
+.border-flip {
+  margin-top: 70px;
+  transform: rotate(180deg);
+  z-index: -1;
+}

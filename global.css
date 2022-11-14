@@ -1,0 +1,28 @@
+:root {
+  --dark: #111a24;
+  --light: #a9c1df;
+  --gray: #8e9ea6;
+  --gold: #df8d36;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--dark);
+}
+
+h1 {
+  color: var(--light);
+  font-family: "Caesar Dressing";
+  font-size: 48px;
+}
+
+.waves {
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
+}
