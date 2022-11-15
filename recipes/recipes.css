@@ -1,7 +1,5 @@
 body {
-  margin-top: 80px;
-  display: flex;
-  flex-direction: column;
+  margin-top: 40px;
 }
 
 main {
@@ -11,21 +9,23 @@ main {
 }
 
 .recipe {
-  width: 525px;
-  display: flex;
-  flex-direction: column;
+  width: 100%;
+  max-width: 550px;
+  height: 600px;
 }
 
 .recipe__container {
-  width: 420px;
-  position: relative;
+  width: 100%;
+  max-width: 420px;
 
+  position: relative;
   top: 50px;
   left: 55px;
 }
 
 .border {
-  width: 525px;
+  width: 100%;
+  max-width: 525px;
   position: absolute;
 }
 
@@ -41,6 +41,7 @@ h2 {
 
 h3 {
   margin: 20px 0;
+
   color: var(--light);
   font-family: "Philosopher";
   font-size: 20px;
@@ -59,7 +60,8 @@ ol {
 }
 
 .picture {
-  margin-right: 90px;
+  width: 100%;
+  max-width: 550px;
 
   display: flex;
   flex-direction: column;
@@ -67,15 +69,22 @@ ol {
   justify-content: center;
 }
 
-.bread,
-.stew {
-  width: 280px;
+.bread__img,
+.stew__img,
+.porridge__img {
+  width: 60%;
+  max-width: 280px;
   margin: 50px auto;
   position: relative;
 }
 
 .border-flip {
-  margin-top: 70px;
+  margin-top: 125px;
   transform: rotate(180deg);
   z-index: -1;
+}
+
+.split {
+  margin-left: 30px;
+  columns: 100px 2;
 }
