@@ -26,6 +26,7 @@ main {
 .border {
   width: 100%;
   max-width: 525px;
+
   position: absolute;
 }
 
@@ -35,6 +36,7 @@ h2 {
   color: var(--light);
   font-family: "Philosopher";
   font-size: 24px;
+
   text-decoration: underline;
   text-align: center;
 }
@@ -74,6 +76,7 @@ ol {
 .porridge__img {
   width: 60%;
   max-width: 280px;
+
   margin: 50px auto;
   position: relative;
 }
