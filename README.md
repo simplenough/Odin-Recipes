@@ -10,8 +10,8 @@
 
 #### :beers: Hope you enjoy!
 
-# Links
+## Links
 
-### :link: View the full website [here](simplenough.github.io/odin-recipes)
+#### :link: View the full website [here](simplenough.github.io/odin-recipes)
 
-### :link: View the full assignment [here](https://www.theodinproject.com/lessons/foundations-recipes)
+#### :link: View the full assignment [here](https://www.theodinproject.com/lessons/foundations-recipes)
