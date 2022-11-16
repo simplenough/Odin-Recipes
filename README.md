@@ -6,7 +6,7 @@
 
 > A simple recipe page to practice HTML and CSS
 
-### :thought_balloon: My goal was to create a viking/odin theme, hope you enjoy!<br></br>
+#### :thought_balloon: My goal was to create a viking/odin theme, hope you enjoy!<br></br>
 
 # Links
 
