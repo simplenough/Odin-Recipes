@@ -10,6 +10,6 @@
 
 ## Links
 
-#### :link: View the full website [here](simplenough.github.io/odin-recipes)
+#### :link: View the recipe page [here](simplenough.github.io/odin-recipes)
 
 #### :link: View the full assignment [here](https://www.theodinproject.com/lessons/foundations-recipes)
