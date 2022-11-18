@@ -8,13 +8,20 @@
 
 #### :beers: Hope you enjoy!
 
+<br></br>
+
+<hr>
+<br></br>
+
 ![Home Page](./assets/homepage-screenshot.png)
 ![Recipe Page](./assets/recipe-screenshot.png)
+<br></br>
+
+<hr>
+<br></br>
 
 ## Links
 
 #### :link: View the full website [here](https://simplenough.github.io/odin-recipes/)
 
 #### :link: View the full assignment [here](https://www.theodinproject.com/lessons/foundations-recipes)
-
-#### :link:
