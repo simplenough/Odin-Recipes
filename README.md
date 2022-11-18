@@ -8,7 +8,6 @@
 
 #### :beers: Hope you enjoy!
 
-<br></br>
 
 <hr>
 <br></br>
@@ -18,7 +17,6 @@
 <br></br>
 
 <hr>
-<br></br>
 
 ## Links
 
