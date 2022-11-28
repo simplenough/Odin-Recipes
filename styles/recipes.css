@@ -82,7 +82,7 @@ ol {
 }
 
 .border-flip {
-  margin-top: 250px;
+  margin-top: 130px;
   transform: rotate(180deg);
   z-index: -1;
 }
