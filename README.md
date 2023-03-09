@@ -22,3 +22,5 @@
 #### :link: View the full website [here](https://simplenough.github.io/odin-recipes/)
 
 #### :link: View the assignment [here](https://www.theodinproject.com/lessons/foundations-recipes)
+
+<!-- ## References -->
